@@ -87,7 +87,7 @@ namespace Calculator
 
             Console.WriteLine("");
             float resultado = v1 * v2;
-            Console.WriteLine($"O reslultado da divisão é: {resultado}");
+            Console.WriteLine($"O reslultado da multiplicação é: {resultado}");
             Console.ReadKey();
             Menu();
         }
